@@ -1,0 +1,10 @@
+
+.intro {
+    max-height: 100vh !important;
+}
+
+img {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+}
